@@ -31,9 +31,9 @@
                     </div>
                     <ul class="menu-pc__bottom">
                         <li>イベント</li>
-                        <li>ニュース</li>
-                        <li>アクセス</li>
                         <li>美術館について</li>
+                        <li>アクセス</li>
+                        <li>ショップ</li>
                     </ul>
                 </div>
             </div>
@@ -174,9 +174,9 @@
         </div>
         <ul class="menu-pc__bottom pc">
             <li>イベント</li>
-            <li>ニュース</li>
-            <li>アクセス</li>
             <li>美術館について</li>
+            <li>アクセス</li>
+            <li>ショップ</li>
         </ul>
         <div class="footer-bottom">
             <i class="fab fa-youtube"></i>
@@ -200,9 +200,9 @@
     <div class="menu-list none">
         <ul>
             <li class="menu">イベント</li>
-            <li class="menu">ニュース</li>
-            <li class="menu">アクセス</li>
             <li class="menu">美術館について</li>
+            <li class="menu">アクセス</li>
+            <li class="menu">ショップ</li>
             <div class="search">
                 <i class="fas fa-search"></i>
                 <input  class="menu" type="text" text="キーワード">

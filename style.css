@@ -159,7 +159,7 @@ header {
   position: fixed;
   top: 0px;
   right: 0px;
-  left: 260px;
+  left: 60%;
   bottom: -280px;
   z-index: 5;
 }

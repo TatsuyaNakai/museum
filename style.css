@@ -207,10 +207,6 @@ header {
           transform: scale(1, 1);
 }
 
-.menu-list li:last-child {
-  margin-bottom: 10px;
-}
-
 .menu-list .search {
   display: -webkit-box;
   display: -ms-flexbox;
